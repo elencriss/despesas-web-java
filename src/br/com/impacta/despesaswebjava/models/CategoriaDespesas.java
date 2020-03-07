@@ -1,0 +1,6 @@
+package br.com.impacta.despesaswebjava.models;
+
+public enum CategoriaDespesas {
+	ALIMENTACAO, CUIDADOS_PESSOAIS, DIVERSOS, DOACOES, EDUCACAO, LAZER,
+	MORADIA, SAUDE, SUPERMERCADO, TRANSPORTE, VEICULO, VESTUARIO, VIAGEM
+}
