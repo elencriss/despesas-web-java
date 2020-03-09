@@ -20,7 +20,7 @@ import="br.com.impacta.despesaswebjava.dao.*,
 	<div class="container">
 		<div class="navbar navbar-expand-sm bg-light">Despesas Pessoais</div>
 			<div class="panel-body">
-				[Aqui um texto introdutório da tabela]
+				Listagem das últimas despesas pessois registradas:
 			</div>
 		<table class="table">
 			<thead>
